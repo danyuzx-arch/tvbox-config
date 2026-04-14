@@ -2,12 +2,12 @@
   "storeHouse": [
     {
       "sourceName": "📦 本地仓库",
-      "sourceUrl": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_聚合.json",
+      "sourceUrl": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/本地仓库_聚合.json",
       "parse": "{\"logo\":\"https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg\",\"danma\":true,\"danma_colors\":[\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"
     },
     {
       "sourceName": "📡 直播仓库",
-      "sourceUrl": "https://gitee.com/danyuzx/tvbox/raw/master/lib/直播仓库.json",
+      "sourceUrl": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/直播仓库.json",
       "parse": "{\"logo\":\"https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg\",\"danma\":true}"
     }
   ],
