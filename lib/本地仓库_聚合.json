@@ -1,62 +1,6 @@
 {
   "urls": [
     {
-      "name": "2hacc_oktv",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/2hacc_oktv.json"
-    },
-    {
-      "name": "Dong-learn9_tvbox2",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/Dong-learn9_tvbox2.json"
-    },
-    {
-      "name": "anaer_meow",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/anaer_meow.json"
-    },
-    {
-      "name": "city66_aiyouteng",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/city66_aiyouteng.json"
-    },
-    {
-      "name": "city66_youku",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/city66_youku.json"
-    },
-    {
-      "name": "cluntop_jsm",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/cluntop_jsm.json"
-    },
-    {
-      "name": "ewctt_aa",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_aa.json"
-    },
-    {
-      "name": "ewctt_box",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_box.json"
-    },
-    {
-      "name": "ewctt_fty",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_fty.json"
-    },
-    {
-      "name": "ewctt_fun",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_fun.json"
-    },
-    {
-      "name": "fty",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/fty.json"
-    },
-    {
-      "name": "guru2016_tvbox",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/guru2016_tvbox.json"
-    },
-    {
-      "name": "jhzone_tvbox",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/jhzone_tvbox.json"
-    },
-    {
-      "name": "ok",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ok.txt"
-    },
-    {
       "name": "qist_0821",
       "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/qist_0821.json"
     },
@@ -77,12 +21,96 @@
       "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/qist_9918.json"
     },
     {
-      "name": "yoursmile_xc",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/yoursmile_xc.json"
+      "name": "Dong-learn9_tvbox2",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/Dong-learn9_tvbox2.json"
+    },
+    {
+      "name": "city66_aiyouteng",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/city66_aiyouteng.json"
+    },
+    {
+      "name": "city66_youku",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/city66_youku.json"
+    },
+    {
+      "name": "ewctt_aa",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_aa.json"
+    },
+    {
+      "name": "ewctt_box",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_box.json"
+    },
+    {
+      "name": "ewctt_fty",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_fty.json"
+    },
+    {
+      "name": "ewctt_fun",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ewctt_fun.json"
     },
     {
       "name": "云星家庭",
       "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/云星家庭.json"
+    },
+    {
+      "name": "分享者",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/分享者.json"
+    },
+    {
+      "name": "无忧TV",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/无忧TV.json"
+    },
+    {
+      "name": "无忧ali",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/无忧ali.json"
+    },
+    {
+      "name": "老刘备",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/老刘备.json"
+    },
+    {
+      "name": "2hacc_oktv",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/2hacc_oktv.json"
+    },
+    {
+      "name": "ok",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/ok.txt"
+    },
+    {
+      "name": "肥猫",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/肥猫.txt"
+    },
+    {
+      "name": "菜妮丝",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/菜妮丝.txt"
+    },
+    {
+      "name": "饭太硬",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/饭太硬.txt"
+    },
+    {
+      "name": "anaer_meow",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/anaer_meow.json"
+    },
+    {
+      "name": "cluntop_jsm",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/cluntop_jsm.json"
+    },
+    {
+      "name": "fty",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/fty.json"
+    },
+    {
+      "name": "guru2016_tvbox",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/guru2016_tvbox.json"
+    },
+    {
+      "name": "jhzone_tvbox",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/jhzone_tvbox.json"
+    },
+    {
+      "name": "yoursmile_xc",
+      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/yoursmile_xc.json"
     },
     {
       "name": "俊佬",
@@ -91,10 +119,6 @@
     {
       "name": "儿童",
       "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/儿童.txt"
-    },
-    {
-      "name": "分享者",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/分享者.json"
     },
     {
       "name": "动漫",
@@ -127,30 +151,6 @@
     {
       "name": "无名",
       "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/无名.txt"
-    },
-    {
-      "name": "无忧TV",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/无忧TV.json"
-    },
-    {
-      "name": "无忧ali",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/无忧ali.json"
-    },
-    {
-      "name": "老刘备",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/老刘备.json"
-    },
-    {
-      "name": "肥猫",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/肥猫.txt"
-    },
-    {
-      "name": "菜妮丝",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/菜妮丝.txt"
-    },
-    {
-      "name": "饭太硬",
-      "url": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/饭太硬.txt"
     }
   ]
 }
