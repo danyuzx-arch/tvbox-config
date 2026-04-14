@@ -1,136 +1,328 @@
 {
   "urls": [
     {
-      "name": "📺 优酷系(148站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/city66_youku.json"
+      "name": "【其他】2hacc_oktv",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/2hacc_oktv.json"
     },
     {
-      "name": "📺 ewctt影视(140站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/ewctt_box.json"
+      "name": "【其他】99",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/99.json"
     },
     {
-      "name": "📺 Anaer猫(90站)",
+      "name": "【其他】FanchangWang_tv",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/FanchangWang_tv.json"
+    },
+    {
+      "name": "【其他】XYQHiker_996影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_996影视.json"
+    },
+    {
+      "name": "【其他】XYQHiker_七新影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_七新影视.json"
+    },
+    {
+      "name": "【其他】XYQHiker_云盘资源",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_云盘资源.json"
+    },
+    {
+      "name": "【其他】XYQHiker_兔小贝",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_兔小贝.json"
+    },
+    {
+      "name": "【其他】XYQHiker_兔小贝2",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_兔小贝2.json"
+    },
+    {
+      "name": "【其他】XYQHiker_农民影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_农民影视.json"
+    },
+    {
+      "name": "【其他】XYQHiker_剧圈影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_剧圈影视.json"
+    },
+    {
+      "name": "【其他】XYQHiker_可可影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_可可影视.json"
+    },
+    {
+      "name": "【其他】XYQHiker_哔嘀影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_哔嘀影视.json"
+    },
+    {
+      "name": "【其他】XYQHiker_影搜",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_影搜.json"
+    },
+    {
+      "name": "【其他】XYQHiker_播视童趣",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_播视童趣.json"
+    },
+    {
+      "name": "【其他】XYQHiker_来看影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_来看影视.json"
+    },
+    {
+      "name": "【其他】XYQHiker_河马短剧",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_河马短剧.json"
+    },
+    {
+      "name": "【其他】XYQHiker_爱你短剧",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_爱你短剧.json"
+    },
+    {
+      "name": "【其他】XYQHiker_玩偶哥哥",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_玩偶哥哥.json"
+    },
+    {
+      "name": "【其他】XYQHiker_电影港",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_电影港.json"
+    },
+    {
+      "name": "【其他】XYQHiker_短剧屋",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_短剧屋.json"
+    },
+    {
+      "name": "【其他】anaer_meow",
       "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/anaer_meow.json"
     },
     {
-      "name": "🎬 ewctt短剧(69站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/ewctt_fun.json"
+      "name": "【其他】biliext_Bili",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/biliext_Bili.json"
     },
     {
-      "name": "🔍 qist9918(84站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_9918.json"
+      "name": "【其他】biliext_初中课堂",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/biliext_初中课堂.json"
     },
     {
-      "name": "🔍 qist0821(84站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_0821.json"
+      "name": "【其他】biliext_小学课堂",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/biliext_小学课堂.json"
     },
     {
-      "name": "🔍 qist0826(54站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_0826.json"
+      "name": "【其他】bttt",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/bttt.json"
     },
     {
-      "name": "🔍 FTY(51站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/fty.json"
+      "name": "【其他】duboku",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/duboku.json"
     },
     {
-      "name": "🔍 jhzone(45站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/jhzone_tvbox.json"
+      "name": "【其他】fm18",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/fm18.json"
     },
     {
-      "name": "🔍 qist0827(33站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_0827.json"
+      "name": "【其他】guru2016_tvbox",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/guru2016_tvbox.json"
     },
     {
-      "name": "☁️ 分享者(294站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/分享者.json"
+      "name": "【其他】jianpian",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/jianpian.json"
     },
     {
-      "name": "☁️ 老刘备(176站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/老刘备.json"
+      "name": "【其他】moli",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/moli.json"
     },
     {
-      "name": "☁️ 无忧TV(68站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/无忧TV.json"
+      "name": "【其他】wogg",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/wogg.json"
     },
     {
-      "name": "☁️ 无忧ali(55站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/无忧ali.json"
+      "name": "【其他】yoursmile_xc",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/yoursmile_xc.json"
     },
     {
-      "name": "☁️ cluntop-JSM(73站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/cluntop_jsm.json"
+      "name": "【其他】在线仓库",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/在线仓库.json"
     },
     {
-      "name": "☁️ 云星家庭(62站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/云星家庭.json"
+      "name": "【其他】搜索仓库",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/搜索仓库.json"
     },
     {
-      "name": "📡 qist367(106站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_367.json"
+      "name": "【其他】本地仓库",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库.json"
     },
     {
-      "name": "⚙️ ewctt-aa(12站)",
+      "name": "【其他】本地仓库1",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库1.json"
+    },
+    {
+      "name": "【其他】本地仓库_专用",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_专用.json"
+    },
+    {
+      "name": "【其他】本地仓库_影视",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_影视.json"
+    },
+    {
+      "name": "【其他】本地仓库_搜索",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_搜索.json"
+    },
+    {
+      "name": "【其他】本地仓库_短剧",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_短剧.json"
+    },
+    {
+      "name": "【其他】本地仓库_网盘",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_网盘.json"
+    },
+    {
+      "name": "【其他】本地仓库_通用",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_通用.json"
+    },
+    {
+      "name": "【影视】Dong-learn9_tvbox2",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/Dong-learn9_tvbox2.json"
+    },
+    {
+      "name": "【影视】city66_aiyouteng",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/city66_aiyouteng.json"
+    },
+    {
+      "name": "【影视】city66_youku",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/city66_youku.json"
+    },
+    {
+      "name": "【影视】ewctt_aa",
       "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/ewctt_aa.json"
     },
     {
-      "name": "⚙️ ewctt-fty(48站)",
+      "name": "【影视】ewctt_box",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/ewctt_box.json"
+    },
+    {
+      "name": "【影视】ewctt_fun",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/ewctt_fun.json"
+    },
+    {
+      "name": "【搜索】ewctt_fty",
       "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/ewctt_fty.json"
     },
     {
-      "name": "📺 菜妮丝(102站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/菜妮丝.txt"
+      "name": "【搜索】fty",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/fty.json"
     },
     {
-      "name": "📺 饭太硬(51站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/饭太硬.txt"
+      "name": "【搜索】qist_0821",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_0821.json"
     },
     {
-      "name": "📺 南风XC(50站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/南风XC.txt"
+      "name": "【搜索】qist_0826",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_0826.json"
     },
     {
-      "name": "📺 ok专线(42站)",
+      "name": "【搜索】qist_0827",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_0827.json"
+    },
+    {
+      "name": "【搜索】qist_367",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_367.json"
+    },
+    {
+      "name": "【搜索】qist_9918",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/qist_9918.json"
+    },
+    {
+      "name": "【直播】XYQHiker_斗鱼直播",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_斗鱼直播.json"
+    },
+    {
+      "name": "【直播】XYQHiker_虎牙直播",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_虎牙直播.json"
+    },
+    {
+      "name": "【直播】本地仓库_直播",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/本地仓库_直播.json"
+    },
+    {
+      "name": "【网盘】cluntop_jsm",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/cluntop_jsm.json"
+    },
+    {
+      "name": "【网盘】jhzone_tvbox",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/jhzone_tvbox.json"
+    },
+    {
+      "name": "【网盘】云星家庭",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/云星家庭.json"
+    },
+    {
+      "name": "【网盘】分享者",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/分享者.json"
+    },
+    {
+      "name": "【网盘】无忧TV",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/无忧TV.json"
+    },
+    {
+      "name": "【网盘】无忧ali",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/无忧ali.json"
+    },
+    {
+      "name": "【网盘】无忧ali1",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/无忧ali1.json"
+    },
+    {
+      "name": "【网盘】老刘备",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/老刘备.json"
+    },
+    {
+      "name": "【通用】XYQHiker_巴士动漫",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/XYQHiker_巴士动漫.json"
+    },
+    {
+      "name": "【通用】ok",
       "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/ok.txt"
     },
     {
-      "name": "📺 肥猫(50站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/肥猫.txt"
-    },
-    {
-      "name": "📺 影探(38站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/影探.txt"
-    },
-    {
-      "name": "📺 动漫(18站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/动漫.txt"
-    },
-    {
-      "name": "📺 小马(58站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/小马.txt"
-    },
-    {
-      "name": "📺 弯弯(21站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/弯弯.txt"
-    },
-    {
-      "name": "📺 巧技(27站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/巧技.txt"
-    },
-    {
-      "name": "📺 无名(22站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/无名.txt"
-    },
-    {
-      "name": "📺 俊佬(20站)",
+      "name": "【通用】俊佬",
       "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/俊佬.txt"
     },
     {
-      "name": "📺 夜魔(19站)",
+      "name": "【通用】儿童",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/儿童.txt"
+    },
+    {
+      "name": "【通用】动漫",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/动漫.txt"
+    },
+    {
+      "name": "【通用】南风XC",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/南风XC.txt"
+    },
+    {
+      "name": "【通用】夜魔",
       "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/夜魔.txt"
     },
     {
-      "name": "📺 儿童(9站)",
-      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/儿童.txt"
+      "name": "【通用】小马",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/小马.txt"
+    },
+    {
+      "name": "【通用】巧技",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/巧技.txt"
+    },
+    {
+      "name": "【通用】弯弯",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/弯弯.txt"
+    },
+    {
+      "name": "【通用】影探",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/影探.txt"
+    },
+    {
+      "name": "【通用】无名",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/无名.txt"
+    },
+    {
+      "name": "【通用】肥猫",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/肥猫.txt"
+    },
+    {
+      "name": "【通用】菜妮丝",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/菜妮丝.txt"
+    },
+    {
+      "name": "【通用】饭太硬",
+      "url": "https://gitee.com/danyuzx/tvbox/raw/master/lib/饭太硬.txt"
     }
   ]
 }

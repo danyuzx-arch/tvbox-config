@@ -1777,5 +1777,5 @@
 	"flags": [],
 	"wallpaper": "./img/0.jpg",
 	"logo": "./img/pg.gif",
-	"spider": "./pg.jar"
+	"spider": "https://raw.githubusercontent.com/qist/tvbox/master/jar/pg.jar"
 }

@@ -1,5 +1,5 @@
 {
-  "spider": "./fan.txt",
+  "spider": "https://raw.githubusercontent.com/qist/tvbox/master/jar/fan.txt",
   "lives": [
     {"name": "live","boot": false,"type": 0,"url": "./tv.txt","playerType": 2,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://logo.ugigc.dpdns.org/{name}.png"}
   ],

@@ -1,5 +1,5 @@
 {
-	"spider": "./pg.jar",
+	"spider": "https://raw.githubusercontent.com/qist/tvbox/master/jar/pg.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites": [
 		{

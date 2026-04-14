@@ -1,5 +1,5 @@
 {
-  "spider": "./custom_spider.jar",
+  "spider": "https://raw.githubusercontent.com/qist/tvbox/master/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
