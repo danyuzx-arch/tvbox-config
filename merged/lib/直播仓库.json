@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "📡 qist直播(647路)",
+      "url": "http://172.21.114.86:9978/file/TVBox/live/qist_live.txt"
+    },
+    {
+      "name": "📡 sr1cky港澳台(978路)",
+      "url": "http://172.21.114.86:9978/file/TVBox/live/sr1cky_iptv.txt"
+    },
+    {
+      "name": "📡 Supprise0901河南(509路)",
+      "url": "http://172.21.114.86:9978/file/TVBox/live/Supprise0901_live.txt"
+    }
+  ]
+}
