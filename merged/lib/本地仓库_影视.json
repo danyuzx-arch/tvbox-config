@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "优酷系(148站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/city66_youku.json"
+    },
+    {
+      "name": "ewctt影视(140站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/ewctt_box.json"
+    },
+    {
+      "name": "Anaer猫(90站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/anaer_meow.json"
+    }
+  ]
+}
