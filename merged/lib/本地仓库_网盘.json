@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "name": "分享者(294站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/分享者.json"
+    },
+    {
+      "name": "老刘备(176站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/老刘备.json"
+    },
+    {
+      "name": "无忧TV(68站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/无忧TV.json"
+    },
+    {
+      "name": "无忧ali(55站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/无忧ali.json"
+    },
+    {
+      "name": "cluntop-JSM(73站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/cluntop_jsm.json"
+    },
+    {
+      "name": "云星家庭(62站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/云星家庭.json"
+    }
+  ]
+}
