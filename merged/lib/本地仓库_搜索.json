@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "name": "qist9918(84站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/qist_9918.json"
+    },
+    {
+      "name": "qist0821(84站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/qist_0821.json"
+    },
+    {
+      "name": "qist0826(54站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/qist_0826.json"
+    },
+    {
+      "name": "FTY(51站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/fty.json"
+    },
+    {
+      "name": "jhzone(45站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/jhzone_tvbox.json"
+    },
+    {
+      "name": "qist0827(33站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/qist_0827.json"
+    }
+  ]
+}
