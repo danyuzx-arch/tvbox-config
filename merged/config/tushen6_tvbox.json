@@ -1,0 +1,269 @@
+{
+    "spider": "./tvbox.jar",
+    "logo": "https://img.meituan.net/portalweb/2d4b59b4fe3ab8c5fbe1150a68f52448586638.gif",
+    "wallpaper": "https://t.alcy.cc/acg",
+    "warningText": "学习使用,资源来源于网络,请勿贩卖,请加载24小时后删除,出现其他问题与作者无关,请知悉！",
+    "lives": [
+        {
+            "name": "✨范明明✨",
+            "type": 0,
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+        }
+    ],
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "😎免费┃接口",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "indexs": 1,
+            "ext": "./lib/douban.json"
+        },
+        {
+            "key": "配置",
+            "name": "📥配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.297
+            }
+        },
+        {
+            "key": "哔哩集合",
+            "name": "🅱️哔哩┃集合",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "./lib/bili.json"
+            }
+        },
+        {
+            "key": "热播",
+            "name": "🔥热播┃秒播",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "key": "超前",
+            "name": "🐯超前丨秒播",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": "http://chaoqianys.top:91/api.php/app/"
+        },
+       
+        {
+            "key": "闪影",
+            "name": "🍘闪影｜蓝光",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "Tgsoukk",
+            "name": "✈️TG搜┃夸克",
+            "type": 3,
+            "api": "csp_Tgsoukk",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Tgsouuc",
+            "name": "✈️TG搜┃UC",
+            "type": 3,
+            "api": "csp_Tgsouuc",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Tgsoubd",
+            "name": "✈️TG搜┃百度",
+            "type": 3,
+            "api": "csp_Tgsoubd",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Tgsou",
+            "name": "✈️TG搜┃聚合",
+            "type": 3,
+            "api": "csp_Tgsou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "🔴玩偶┃4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "虎斑",
+            "name": "🔴虎斑┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30,
+            "ext": {
+                "site": "http://xhban.xyz:20720,http://154.222.27.33:20720"
+            }
+        },
+        {
+            "key": "多多影音",
+            "name": "🔴多多┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30,
+            "ext": {
+                "site": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz"
+            }
+        },
+        {
+            "key": "二小网盘",
+            "name": "🔴二小┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://www.2xiaopan.top,https://2xiaopan.top,https://www.erxiaozhan.top,https://www.2xiaozhan.top,https://wexwp.cc"
+            }
+        },
+        {
+            "key": "小斑网盘",
+            "name": "🔴小斑┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "http://xsayang.fun:12512,http://154.201.83.50:12512"
+            }
+        },
+        {
+            "key": "至臻网盘",
+            "name": "🔴至臻┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://mihdr.top,https://www.miqk.cc,https://xiaomiai.site,https://xiaomi666.fun,https://www.mihdr.top,https://www.zhizhenpan.fun"
+            }
+        },
+        {
+            "key": "闪电",
+            "name": "🔴闪电┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30,
+            "ext": {
+                "site": "https://sd.sduc.site"
+            }
+        },
+        {
+            "key": "木偶哥哥",
+            "name": "🔴木偶┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://123.666291.xyz,https://666.666291.xyz,https://www.muou.site,https://www.muou.asia"
+            }
+        },
+        {
+            "key": "蜡笔网盘",
+            "name": "🔴蜡笔┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "http://xiaocge.fun,http://feimo.fun,https://feimao666.fun,http://feimao888.fun,http://www.labi88.sbs,http://fmao.site,http://fmao.shop,http://xiaocgege.shop"
+            }
+        },
+        {
+            "key": "讴歌网盘",
+            "name": "🔴讴歌┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://woog.nxog.eu.org,https://woog.nxog.fun,https://woog.nxog.eu.org,https://woog.430520.xyz"
+            }
+        },
+        {
+            "key": "夸搜",
+            "name": "🌀夸克丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=quark&wd="
+        },
+        {
+            "key": "uc搜",
+            "name": "🌀UC丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=uc&wd="
+        },
+        {
+            "key": "baidu搜",
+            "name": "🌀百度丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=baidu&wd="
+        },
+        {
+            "key": "tianyi搜",
+            "name": "🌀天翼丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=tianyi&wd="
+        },
+        {
+            "key": "push_agent",
+            "name": "⛽手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0
+        }
+    ]
+}
