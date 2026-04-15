@@ -1,0 +1,9 @@
+// 其他配置 — 特殊/未知格式
+// 共3个文件
+{
+  "storeHouse": [
+    {"sourceName": "A线路(综合)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/A.txt"},
+    {"sourceName": "Duboku(海外剧)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/duboku.json"},
+    {"sourceName": "Wogg(特殊)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/wogg.json"}
+  ]
+}
