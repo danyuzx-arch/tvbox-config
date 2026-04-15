@@ -1,0 +1,16 @@
+{
+	"storeHouse": [
+		{
+			"sourceName": "🦅鹏九多仓",
+			"sourceUrl": "https://mcp2016.github.io/TVBox/urls.json"
+		},
+		{
+			"sourceName": "小盒子多仓",
+			"sourceUrl": "http://xhztv.top/dc"
+		},
+		{
+			"sourceName": "iptvindex多仓",
+			"sourceUrl": "https://iptvindex.com/db.json"
+		}
+	]
+}
