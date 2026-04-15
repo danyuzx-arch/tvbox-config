@@ -1,0 +1,11 @@
+// 主入口 — 综合线路
+// 调用方式：clan://localhost/云星-TVBox-merged/lib/main.json
+{
+  "storeHouse": [
+    {"sourceName": "综合线路(99)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/99.json"},
+    {"sourceName": "本地仓库(全)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/本地仓库.json"},
+    {"sourceName": "本地仓库(备用)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/本地仓库1.json"},
+    {"sourceName": "仓库入口(云星)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/ksck.json"},
+    {"sourceName": "仓库入口(备用)", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/ksck1.json"}
+  ]
+}
