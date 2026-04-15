@@ -1,0 +1,48 @@
+{
+  "urls": [
+    {
+      "name": "📺 爱优腾(174站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/city66_aiyouteng.json"
+    },
+    {
+      "name": "📺 优酷系(148站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/city66_youku.json"
+    },
+    {
+      "name": "📺 ewctt影视(140站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/ewctt_box.json"
+    },
+    {
+      "name": "⭐ qist9918(84站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/qist_9918.json"
+    },
+    {
+      "name": "⭐ qist0821(84站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/qist_0821.json"
+    },
+    {
+      "name": "🎬 ewctt短剧(69站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/ewctt_fun.json"
+    },
+    {
+      "name": "📺 Anaer猫(90站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/anaer_meow.json"
+    },
+    {
+      "name": "⭐ jhzone(45站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/jhzone_tvbox.json"
+    },
+    {
+      "name": "⭐ Dong-learn9(43站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/Dong-learn9_tvbox2.json"
+    },
+    {
+      "name": "⚙️ ewctt-aa(12站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/ewctt_aa.json"
+    },
+    {
+      "name": "⚙️ cluntop-JSM(pg)(73站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/cluntop_jsm.json"
+    }
+  ]
+}
