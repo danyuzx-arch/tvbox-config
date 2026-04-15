@@ -1,0 +1,168 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/TVBox/lib/2hacc_oktv.json",
+      "name": "2HACC_OKTV"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/Dong-learn9_tvbox2.json",
+      "name": "东哥TV_学习版"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/anaer_meow.json",
+      "name": "猫影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/city66_aiyouteng.json",
+      "name": "城66_爱游"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/city66_youku.json",
+      "name": "城66_优酷"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/cluntop_jsm.json",
+      "name": "菜鸟精选"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_aa.json",
+      "name": "EWCC_精简"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_box.json",
+      "name": "EWCC_影视盒"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_fty.json",
+      "name": "EWCC_饭太硬"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_fun.json",
+      "name": "EWCC_福利"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/fm18.json",
+      "name": "FM18_精简"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/fty.json",
+      "name": "饭太硬_整合"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/guru2016_tvbox.json",
+      "name": "古鲁TV"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/jhzone_tvbox.json",
+      "name": "江湖TV"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ok.txt",
+      "name": "OK_影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_0821.json",
+      "name": "QIST_0821"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_0826.json",
+      "name": "QIST_0826"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_0827.json",
+      "name": "QIST_0827"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_367.json",
+      "name": "QIST_367"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_9918.json",
+      "name": "QIST_9918"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/yoursmile_xc.json",
+      "name": "微笑_星辰"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/云星家庭.json",
+      "name": "云星_家庭影院"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/俊佬.txt",
+      "name": "俊佬_线路"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/儿童.txt",
+      "name": "儿童_课堂"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/分享者.json",
+      "name": "分享者_聚合"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/动漫.txt",
+      "name": "动漫_专线"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/南风XC.txt",
+      "name": "南风_XC"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/夜魔.txt",
+      "name": "夜魔_影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/小米.txt",
+      "name": "小米_线路"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/小马.txt",
+      "name": "小马_多线"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/巧技.txt",
+      "name": "巧技_影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/弯弯.txt",
+      "name": "弯弯_线路"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/影探.txt",
+      "name": "影探_搜索"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无名.txt",
+      "name": "无名_影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无忧TV.json",
+      "name": "无忧_TV主线路"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无忧ali.json",
+      "name": "无忧_阿里专线"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无忧ali1.json",
+      "name": "无忧_阿里备线"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/老刘备.json",
+      "name": "老刘备_影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/肥猫.txt",
+      "name": "肥猫_线路"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/菜妮丝.txt",
+      "name": "菜妮丝_影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/饭太硬.txt",
+      "name": "饭太硬_主线路"
+    }
+  ]
+}
