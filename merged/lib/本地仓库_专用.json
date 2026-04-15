@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "name": "ewctt-aa(12站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/ewctt_aa.json"
+    },
+    {
+      "name": "ewctt-fty(48站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/ewctt_fty.json"
+    }
+  ]
+}
