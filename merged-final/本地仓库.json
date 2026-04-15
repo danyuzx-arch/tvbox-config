@@ -1,0 +1,168 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/TVBox/lib/2hacc_oktv.json",
+      "name": "2hacc_oktv"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/Dong-learn9_tvbox2.json",
+      "name": "Dong-learn9_tvbox2"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/anaer_meow.json",
+      "name": "anaer_meow"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/city66_aiyouteng.json",
+      "name": "city66_aiyouteng"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/city66_youku.json",
+      "name": "city66_youku"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/cluntop_jsm.json",
+      "name": "cluntop_jsm"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_aa.json",
+      "name": "ewctt_aa"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_box.json",
+      "name": "ewctt_box"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_fty.json",
+      "name": "ewctt_fty"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ewctt_fun.json",
+      "name": "ewctt_fun"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/fm18.json",
+      "name": "fm18"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/fty.json",
+      "name": "fty"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/guru2016_tvbox.json",
+      "name": "guru2016_tvbox"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/jhzone_tvbox.json",
+      "name": "jhzone_tvbox"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/ok.txt",
+      "name": "ok"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_0821.json",
+      "name": "qist_0821"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_0826.json",
+      "name": "qist_0826"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_0827.json",
+      "name": "qist_0827"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_367.json",
+      "name": "qist_367"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_9918.json",
+      "name": "qist_9918"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/yoursmile_xc.json",
+      "name": "yoursmile_xc"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/云星家庭.json",
+      "name": "云星家庭"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/俊佬.txt",
+      "name": "俊佬"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/儿童.txt",
+      "name": "儿童"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/分享者.json",
+      "name": "分享者"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/动漫.txt",
+      "name": "动漫"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/南风XC.txt",
+      "name": "南风XC"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/夜魔.txt",
+      "name": "夜魔"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/小米.txt",
+      "name": "小米"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/小马.txt",
+      "name": "小马"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/巧技.txt",
+      "name": "巧技"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/弯弯.txt",
+      "name": "弯弯"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/影探.txt",
+      "name": "影探"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无名.txt",
+      "name": "无名"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无忧TV.json",
+      "name": "无忧TV"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无忧ali.json",
+      "name": "无忧ali"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/无忧ali1.json",
+      "name": "无忧ali1"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/老刘备.json",
+      "name": "老刘备"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/肥猫.txt",
+      "name": "肥猫"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/菜妮丝.txt",
+      "name": "菜妮丝"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/饭太硬.txt",
+      "name": "饭太硬"
+    }
+  ]
+}
