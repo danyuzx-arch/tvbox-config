@@ -1,0 +1,12 @@
+// Spider配置 — spider only 格式（需配合JAR解析）
+// 共6个线路
+{
+  "storeHouse": [
+    {"sourceName": "CMS线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/cms.txt"},
+    {"sourceName": "OK线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/ok.txt"},
+    {"sourceName": "俊佬线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/俊佬.txt"},
+    {"sourceName": "小米线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/小米.txt"},
+    {"sourceName": "无忧TV线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/无忧TV.json"},
+    {"sourceName": "运输车线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/运输车.txt"}
+  ]
+}
