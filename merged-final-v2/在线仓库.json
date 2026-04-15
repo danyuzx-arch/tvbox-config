@@ -1,0 +1,68 @@
+{
+  "urls": [
+    {
+      "url": "clan://localhost/TVBox/lib/99.json",
+      "name": "99_聚合"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/FanchangWang_tv.json",
+      "name": "村长_电视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/在线仓库.json",
+      "name": "在线仓库_主"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/在线仓库_聚合.json",
+      "name": "在线仓库_主"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/搜索仓库.json",
+      "name": "搜索_仓库"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库.json",
+      "name": "本地_主仓"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库1.json",
+      "name": "本地_主仓"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_专用.json",
+      "name": "本地_专用"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_影视.json",
+      "name": "本地_影视"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_搜索.json",
+      "name": "本地_搜索"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_直播.json",
+      "name": "本地_直播"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_短剧.json",
+      "name": "本地_短剧"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_网盘.json",
+      "name": "本地_网盘"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_聚合.json",
+      "name": "本地_主仓"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/本地仓库_通用.json",
+      "name": "本地_通用"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/直播仓库.json",
+      "name": "直播_仓库"
+    }
+  ]
+}
