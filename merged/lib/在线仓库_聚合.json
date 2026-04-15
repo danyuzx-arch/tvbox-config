@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "name": "【🌟 影视线】🔗爱优腾(174站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/city66_aiyouteng.json"
+    },
+    {
+      "name": "【🌟 影视线】🔗yoursmile(82站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/yoursmile_xc.json"
+    },
+    {
+      "name": "【🌟 影视线】🔗guru2016(75站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/guru2016_tvbox.json"
+    },
+    {
+      "name": "【🌟 影视线】🔗2hacc(41站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/2hacc_oktv.json"
+    },
+    {
+      "name": "【🔍 搜索线】🔗qist-FTY(51站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/fty.json"
+    },
+    {
+      "name": "【🔍 搜索线】🔗ewctt-fty(48站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/ewctt_fty.json"
+    },
+    {
+      "name": "【☁️ 网盘线】🔗qist367(106站)",
+      "url": "http://172.21.114.86:9978/file/TVBox/lib/qist_367.json"
+    }
+  ]
+}
