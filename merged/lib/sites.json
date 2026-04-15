@@ -1,0 +1,22 @@
+// 站点配置 — spider+sites 格式
+// 共15个线路，可直接作为 TVBox 数据源
+{
+  "storeHouse": [
+    {"sourceName": "云星家庭", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/云星家庭.json"},
+    {"sourceName": "儿童课堂", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/儿童.txt"},
+    {"sourceName": "动漫专线", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/动漫.txt"},
+    {"sourceName": "南风XC", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/南风XC.txt"},
+    {"sourceName": "夜魔线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/夜魔.txt"},
+    {"sourceName": "巧技线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/巧技.txt"},
+    {"sourceName": "弯弯线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/弯弯.txt"},
+    {"sourceName": "影探线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/影探.txt"},
+    {"sourceName": "无名线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/无名.txt"},
+    {"sourceName": "无忧总线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/无忧.json"},
+    {"sourceName": "无忧阿里线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/无忧ali.json"},
+    {"sourceName": "无忧阿里备用", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/无忧ali1.json"},
+    {"sourceName": "老刘备线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/老刘备.json"},
+    {"sourceName": "肥猫线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/肥猫.txt"},
+    {"sourceName": "菜妮丝线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/菜妮丝.txt"},
+    {"sourceName": "饭太硬线路", "sourceUrl": "http://172.21.114.86:9978/file/TVBox/lib/饭太硬.txt"}
+  ]
+}
