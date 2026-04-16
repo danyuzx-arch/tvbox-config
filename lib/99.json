@@ -2,15 +2,7 @@
   "urls": [
     {
       "url": "clan://localhost/TVBox/lib/99_new.json",
-      "name": "🔞 成人_确认存活"
-    },
-    {
-      "url": "clan://localhost/TVBox/lib/99_Huhujun_clean.json",
-      "name": "🔞 Huhujun线路"
-    },
-    {
-      "url": "clan://localhost/TVBox/lib/99_dalazhi_clean.json",
-      "name": "🔞 dalazhi线路"
+      "name": "🔞 成人聚合"
     }
   ]
 }
