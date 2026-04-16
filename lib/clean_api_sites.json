@@ -1,0 +1,754 @@
+{
+  "spider": "./fan.txt",
+  "wallpaper": "https://moe.jitsu.top/img",
+  "logo": "https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg",
+  "sites": [
+    {
+      "key": "10-1212",
+      "name": "10-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "11-6530",
+      "name": "11-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com//api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "12-1805",
+      "name": "12-暴风 [anaer_meow]",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "13-9732",
+      "name": "13-如意 [anaer_meow]",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "14-4526",
+      "name": "14-暴风 [anaer_meow]",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "15-7265",
+      "name": "15-量子 [anaer_meow]",
+      "type": 1,
+      "api": "http://www.lzzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "16-8175",
+      "name": "16-量子 [anaer_meow]",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "17-2825",
+      "name": "17-量子 [anaer_meow]",
+      "type": 1,
+      "api": "https://lzizy8.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "19-8290",
+      "name": "19-量子 [anaer_meow]",
+      "type": 1,
+      "api": "https://lzizy4.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "2-非6028",
+      "name": "2-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://ffzy2.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "21-8603",
+      "name": "21-量子 [anaer_meow]",
+      "type": 1,
+      "api": "https://lzizy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "22-9661",
+      "name": "22-量子 [anaer_meow]",
+      "type": 1,
+      "api": "https://lzizy5.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "24-4802",
+      "name": "24-量子 [anaer_meow]",
+      "type": 1,
+      "api": "http://lzizy.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "25-4856",
+      "name": "25-量子 [anaer_meow]",
+      "type": 1,
+      "api": "https://lzizy3.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "26-7262",
+      "name": "26-优质 [anaer_meow]",
+      "type": 1,
+      "api": "http://hdzyk.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "28-2842",
+      "name": "28-柚子 [anaer_meow]",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "29-9959",
+      "name": "29-火狐 [anaer_meow]",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "3-非4769",
+      "name": "3-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://ffzy3.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "30-3814",
+      "name": "30-金鹰 [anaer_meow]",
+      "type": 1,
+      "api": "https://jinyingzy.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "31-3686",
+      "name": "31-金鹰 [anaer_meow]",
+      "type": 1,
+      "api": "https://jinyingzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "32-5008",
+      "name": "32-金鹰 [anaer_meow]",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "33-9617",
+      "name": "33-*香奶儿资源 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "34-1615",
+      "name": "34-*白嫖资源 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "35-2452",
+      "name": "35-飘零 [anaer_meow]",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "36-2954",
+      "name": "36-虎牙 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "38-6725",
+      "name": "38-最大 [anaer_meow]",
+      "type": 1,
+      "api": "https://zuidazy.co/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "39-9834",
+      "name": "39-樱花 [anaer_meow]",
+      "type": 1,
+      "api": "https://api.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "4-非3664",
+      "name": "4-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "41-1821",
+      "name": "41-光速 [anaer_meow]",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "42-8771",
+      "name": "42-卧龙 [anaer_meow]",
+      "type": 1,
+      "api": "https://wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "43-6334",
+      "name": "43-极速 [anaer_meow]",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "44-8787",
+      "name": "44-红牛 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "45-4820",
+      "name": "45-海洋资源 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.seacms.org/zyapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "46-0506",
+      "name": "46-速博* [anaer_meow]",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "47-0864",
+      "name": "47-无尽 [anaer_meow]",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "48-3576",
+      "name": "48-牛牛 [anaer_meow]",
+      "type": 1,
+      "api": "https://niuniuzy3.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "49-9904",
+      "name": "49-豪华 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.haohuazy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "5-非8498",
+      "name": "5-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "51-5285",
+      "name": "51-魔都 [anaer_meow]",
+      "type": 1,
+      "api": "https://moduzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "52-9157",
+      "name": "52-无尽* [anaer_meow]",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "53-4118",
+      "name": "53-樱花 [anaer_meow]",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "55-3380",
+      "name": "55-ikun* [anaer_meow]",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "56-2717",
+      "name": "56-旺仔 [anaer_meow]",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "57-0739",
+      "name": "57-无忧 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.wyvod.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "58-5230",
+      "name": "58-*美少女资源 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "59-7406",
+      "name": "59-*淫水机资源 [anaer_meow]",
+      "type": 1,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "6-非3302",
+      "name": "6-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "61-8644",
+      "name": "61-红牛* [anaer_meow]",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "62-3372",
+      "name": "62-淘片* [anaer_meow]",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "64-0114",
+      "name": "64-奇艺 [anaer_meow]",
+      "type": 1,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "65-4511",
+      "name": "65-墨斗* [anaer_meow]",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "66-6162",
+      "name": "66-最大 [anaer_meow]",
+      "type": 1,
+      "api": "https://zuidazy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "67-4316",
+      "name": "67-闪电* [anaer_meow]",
+      "type": 1,
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "68-1458",
+      "name": "68-淘片* [anaer_meow]",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json/m3u8.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "69-2684",
+      "name": "69-卧龙* [anaer_meow]",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "7-非0952",
+      "name": "7-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://ffzy4.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "70-5957",
+      "name": "70-无尽* [anaer_meow]",
+      "type": 1,
+      "api": "https://api.wujinapi.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "72-2486",
+      "name": "72-新浪* [anaer_meow]",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "73-1820",
+      "name": "73-360* [anaer_meow]",
+      "type": 1,
+      "api": "https://360zy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "74-5097",
+      "name": "74-魔都* [anaer_meow]",
+      "type": 1,
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "75-5240",
+      "name": "75-最大* [anaer_meow]",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "76-9060",
+      "name": "76-卧龙* [anaer_meow]",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "79-5785",
+      "name": "79-秒播* [anaer_meow]",
+      "type": 1,
+      "api": "https://api.zeqaht.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "8-非0057",
+      "name": "8-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "http://www.ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "80-4814",
+      "name": "80-牛牛 [anaer_meow]",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "82-8344",
+      "name": "82-丫丫 [anaer_meow]",
+      "type": 1,
+      "api": "https://yayazy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "83-5093",
+      "name": "83-木耳* [anaer_meow]",
+      "type": 1,
+      "api": "https://xml.heimuer.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "84-2290",
+      "name": "84-闪电 [anaer_meow]",
+      "type": 1,
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "85-5490",
+      "name": "85-闪电 [anaer_meow]",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "86-2510",
+      "name": "86-索尼 [anaer_meow]",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "89-1363",
+      "name": "89-辣椒资源* [anaer_meow]",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "9-非4257",
+      "name": "9-非凡 [anaer_meow]",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "90-8489",
+      "name": "90-电影天堂* [anaer_meow]",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "️✈️8323",
+      "name": "️✈️极速采集 [分享者]",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "🇨🇳央2091",
+      "name": "🇨🇳央视[cat] [分享者]",
+      "type": 1,
+      "api": "https://dxawi.github.io/0/cat/cntv_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "🌐天天2481",
+      "name": "🌐天天影视 [分享者]",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "🌞南瓜1698",
+      "name": "🌞南瓜[cat] [分享者]",
+      "type": 1,
+      "api": "https://dxawi.github.io/0/cat/猫南瓜.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "💘七七2392",
+      "name": "💘七七韩剧 [分享者]",
+      "type": 1,
+      "api": "https://www.77hanju.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "📛火焰7343",
+      "name": "📛火焰狐妖 [分享者]",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "🔍魔都3192",
+      "name": "🔍魔都动漫 [分享者]",
+      "type": 1,
+      "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "🥟包子0579",
+      "name": "🥟包子采集 [分享者]",
+      "type": 1,
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "🧇至圣6267",
+      "name": "🧇至圣文宣 [分享者]",
+      "type": 1,
+      "api": "http://82.156.40.118:1234/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "🧊索尼5588",
+      "name": "🧊索尼高清 [分享者]",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    }
+  ]
+}
