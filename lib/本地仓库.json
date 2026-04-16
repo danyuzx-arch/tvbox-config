@@ -135,6 +135,14 @@
     {
       "url": "clan://localhost/TVBox/lib/无名.txt",
       "name": "无名线路"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/heroaku_7080.json",
+      "name": "heroaku_7080线路"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/clean_api_sites.json",
+      "name": "🌐纯净API合集(83站)"
     }
   ]
 }
