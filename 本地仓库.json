@@ -143,6 +143,10 @@
     {
       "url": "clan://localhost/TVBox/lib/clean_api_sites.json",
       "name": "🌐纯净API合集(83站)"
+    },
+    {
+      "url": "clan://localhost/TVBox/lib/qist_0821.json",
+      "name": "🏆QIST综合(86站)🌐"
     }
   ]
 }
