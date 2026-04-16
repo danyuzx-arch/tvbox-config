@@ -2,118 +2,120 @@
   "sites": [
     {
       "key": "sdszyapi.com",
-      "name": "成人16",
+      "name": "成人16 🔞",
       "type": 0,
       "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml",
-      "searchable": 1
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "KK资源网",
-      "name": "KK资源网",
+      "name": "KK资源网 🔞",
       "type": 0,
       "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "乐播",
-      "name": "乐播",
+      "name": "乐播 🔞",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "番号资源",
-      "name": "番号资源",
+      "name": "番号资源 🔞",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "大地",
-      "name": "大地",
+      "name": "大地 🔞",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "cee0fca9-1808-5017-9a69-0d9013f95b47",
-      "name": "芒果",
+      "name": "芒果 🔞",
       "type": 1,
       "api": "https://mgzyz1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "b0684274-ce9e-5d4f-bf54-f61afbdaf49d",
-      "name": "玉兔",
+      "name": "玉兔 🔞",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "70f4c18c-3276-50f1-adaa-85614f5441eb",
-      "name": "森林",
+      "name": "森林 🔞",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "9d8974ba-ddfc-5e53-b008-29f37e5fc88b",
-      "name": "155",
+      "name": "155 🔞",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "a93050f8-e282-521d-9c92-cdbbf5add205",
-      "name": "色猫",
+      "name": "色猫 🔞",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "a4d8e39c-5981-5c07-84f8-19ab9839e160",
-      "name": "黄瓜",
+      "name": "黄瓜 🔞",
       "type": 1,
       "api": "https://www.avre00.com/api.php/Prodao/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "ffc08730-71ad-56b8-a153-e2e563e6d64c",
-      "name": "奶香",
+      "name": "奶香 🔞",
       "type": 1,
       "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     },
     {
       "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442",
-      "name": "奥斯卡",
+      "name": "奥斯卡 🔞",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     }
   ]
 }
