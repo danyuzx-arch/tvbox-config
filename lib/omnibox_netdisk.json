@@ -1,0 +1,27 @@
+{
+  "spider": "https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/影视/网盘/4K%E6%8C%87%E5%8D%97.js",
+  "sites": [
+    {"key":"omnibox_4k","name":"OmniBox-4K指南","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/4K%E6%8C%87%E5%8D%97.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_alist","name":"OmniBox-AList","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/AListTvbox.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_qiwei","name":"OmniBox-七味分组","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E4%B8%83%E5%91%B3%E5%88%86%E7%BB%84.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_erxiao","name":"OmniBox-二小","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E4%BA%8C%E5%B0%8F.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_ju115","name":"OmniBox-剧迷115","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E5%89%A7%E8%BF%B7115.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_duoduo","name":"OmniBox-多多","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E5%A4%9A%E5%A4%9A.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_yingchao","name":"OmniBox-影巢","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E5%BD%B1%E5%85%9F.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_kuaiying","name":"OmniBox-快映","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E5%BF%AB%E6%98%BE.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_muou","name":"OmniBox-木偶","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E6%9C%A8%E5%81%B6.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_ouge","name":"OmniBox-欧哥","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E6%AC%A7%E5%93%A5.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_wanou","name":"OmniBox-玩偶","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E7%8E%A9%E5%81%B6.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_wanou_ju","name":"OmniBox-玩偶聚合","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E7%8E%A9%E5%81%B6%E8%81%9A%E5%90%88.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_panzun","name":"OmniBox-盘尊社区","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E7%9B%86%E5%B0%8A%E7%A4%BE%E5%8C%BA.py","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_pansou","name":"OmniBox-盘搜","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E7%9B%86%E6%90%9C.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_pansou_group","name":"OmniBox-盘搜分组","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E7%9B%86%E6%90%9C%E5%88%86%E7%BB%84.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_jupan","name":"OmniBox-聚盘搜索","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E8%81%9A%E7%9B%86%E6%90%9C%E7%B4%A2.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_jupan_group","name":"OmniBox-聚盘搜索分组","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E8%81%9A%E7%9B%86%E6%90%9C%E7%B4%A2%E5%88%86%E7%BB%84.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_zz","name":"OmniBox-至臻","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E8%87%B3%E8%87%89.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_huban","name":"OmniBox-虎斑","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E8%99%8E%E6%96%8F.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_labi","name":"OmniBox-蜡笔","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E8%9C%A1%E7%AC%94.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_shandian","name":"OmniBox-闪电","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E9%97%AA%E7%94%B5.js","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"omnibox_renren","name":"OmniBox-人人电影","type":4,"api":"https://cdn.jsdelivr.net/gh/Silent1566/OmniBox-Spider@main/%E5%BD%B1%E8%A7%86/%E7%BD%91%E7%9B%98/%E4%BA%BA%E4%BA%BA%E7%94%B5%E5%BD%B1.py","searchable":1,"quickSearch":1,"changeable":1}
+  ]
+}
