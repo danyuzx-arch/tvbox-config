@@ -11,9 +11,9 @@
       "parse": "{\"logo\":\"https://gitee.com/wuyougouwu/tvsource/raw/master/Bz/logo.jpg\",\"danma\":true}"
     },
     {
-      "sourceName": "📦 OmniBox网盘",
-      "sourceUrl": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/omnibox_netdisk.json",
-      "parse": "{\"logo\":\"\",\"danma\":true,\"danma_colors\":[\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7D00\",\"#FFFF00\",\"#00FF00\"]}"
+      "sourceName": "🔞 成人精选(19站)",
+      "sourceUrl": "https://raw.githubusercontent.com/danyuzx-arch/tvbox-config/master/lib/99_adult_clean.json",
+      "parse": "{\"logo\":\"\",\"danma\":true}"
     }
   ],
   "notifyUpdate": ""
